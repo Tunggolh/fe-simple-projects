@@ -1,0 +1,10 @@
+.form-expense {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-bottom: 3rem;
+}
+
+.form-expense > * {
+  margin-bottom: 3rem;
+}
